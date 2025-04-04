@@ -1,7 +1,7 @@
-# Porte logique ET
+# Porte logique OU
 
 Ce repository enregistre l'ensemble du projet LTSpice créé pour le TD - porte logique OU à base de deux diodes de commutation proposés par Electro Robot. 
-Plus de détails, vous pouvez vous faire référence à : [Porte logique ET](https://electro-robot.com/les-activites/travaux-diriges-la-porte-logique-ou)
+Plus de détails, vous pouvez vous faire référence à : [Porte logique OU](https://electro-robot.com/les-activites/travaux-diriges-la-porte-logique-ou)
 
 # C'est quoi l'apprentissage avec Electro-Robot ?
 
